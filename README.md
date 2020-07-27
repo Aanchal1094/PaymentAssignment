@@ -10,3 +10,4 @@ The test cases are written in test.py for the reference
 Functionality - user can a valid card number followed by CVV, expiry date and zip code.
 A user is registered into the stripe admin page which can only be accessed by the admin. But the card details are encyrpted so that user data is preserved.
 Application is developed using Stripe payment gateway.
+Since I am do not have the authorization as business owner so I cannot make any payments for the user. But I have attached the success code along the file.
